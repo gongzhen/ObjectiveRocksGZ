@@ -38,6 +38,7 @@
 
 /* Begin PBXFileReference section */
 		60E386C8245C650800597D00 /* rocksdb */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = rocksdb; sourceTree = SOURCE_ROOT; };
+		60E386C9245C660700597D00 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 		6299F8091A17B28200123F56 /* libBCRocks.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libBCRocks.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		6299F80C1A17B28200123F56 /* BCRocks.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BCRocks.h; sourceTree = "<group>"; };
 		6299F80E1A17B28200123F56 /* BCRocks.mm */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.objcpp; path = BCRocks.mm; sourceTree = "<group>"; };
@@ -86,6 +87,7 @@
 		6299F80B1A17B28200123F56 /* BCRocks */ = {
 			isa = PBXGroup;
 			children = (
+				60E386C9245C660700597D00 /* README.md */,
 				6299F80C1A17B28200123F56 /* BCRocks.h */,
 				6299F80E1A17B28200123F56 /* BCRocks.mm */,
 				60E386C8245C650800597D00 /* rocksdb */,
